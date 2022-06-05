@@ -1,3 +1,36 @@
 body {
     background-color: rgb(96, 50, 58);
-}
+    color: antiquewhite;
+    font-family: cursive;
+  }
+  .class {
+    margin: 6px;
+    border: black;
+    padding: 8px;
+  }
+  
+  h1 {
+    text-shadow: 6px 6px 6px black;
+    text-align: center;
+    text-decoration: underline;
+  }
+  
+  h2 {
+    text-shadow: 4px 4px 4px black;
+    text-align: center;
+    
+  }
+  .column {
+    width: 250px;
+    float: left;
+    margin-top: 50px;
+  }
+  .highlight {
+    background-color: rgb(59, 121, 129);
+  }
+  img {
+    width: 300px;
+    height: auto;
+    float: left;
+    margin: 50px;
+  }
