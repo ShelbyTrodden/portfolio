@@ -3,7 +3,9 @@ body {
     color: antiquewhite;
     font-family: cursive;
   }
+  
   .class {
+    float: center;
     margin: 6px;
     border: black;
     padding: 8px;
@@ -22,7 +24,7 @@ body {
   }
   .column {
     width: 250px;
-    float: left;
+    float: center;
     margin-top: 50px;
   }
   .highlight {
@@ -34,3 +36,45 @@ body {
     float: left;
     margin: 50px;
   }
+
+  blockquote {
+    font-style:italic;
+    text-align: justify;
+    list-style-position: inside;
+    line-height:32px;
+    font-size:20px;
+    color:antiquewhite;
+    background: #593d58;
+    margin:10px;
+    padding: 15px 20px 15px 20px;
+    border-radius: 5px;
+    }
+    blockquote:before,
+    blockquote:after {
+    position: relative;
+    vertical-align: middle;
+    font-family: 'Playfair Display', serif;
+    font-size: 56px;
+    font-weight: 700;
+    line-height: 0;
+    color: #FBC02D;
+    }
+
+    a:link {
+        color: rgb(240, 79, 184);
+      }
+      
+    a:visited {
+        color: rgb(113, 49, 139);
+      }
+      
+    
+    a:hover {
+        color: rgb(228, 12, 120);
+      }
+      
+    
+    a:active {
+        color: rgb(227, 107, 231);
+      }
+   
