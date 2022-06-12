@@ -4,7 +4,7 @@
 
 #### _Personal portfolio of Shelby Trodden showcasing projects using HTML and CSS_
 
-##### page can be viewed at ShelbyTrodden.github.io/portfolio
+##### page can be viewed at https://ShelbyTrodden.github.io/portfolio
 
 ## Technologies Used
 
